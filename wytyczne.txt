@@ -1,0 +1,2 @@
+stos z ograniczoną wielkośćią
+poczatek i koniec kolejki, zakladamy skonczona ilosc miejsca, 

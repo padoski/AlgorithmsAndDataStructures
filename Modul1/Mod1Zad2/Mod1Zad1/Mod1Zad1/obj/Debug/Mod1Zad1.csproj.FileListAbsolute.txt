@@ -1,0 +1,6 @@
+E:\SemestrIV\Algorytmy\Zajecia\Mod1Zad2\Mod1Zad1\Mod1Zad1\bin\Debug\Mod1Zad1.exe.config
+E:\SemestrIV\Algorytmy\Zajecia\Mod1Zad2\Mod1Zad1\Mod1Zad1\bin\Debug\Mod1Zad1.exe
+E:\SemestrIV\Algorytmy\Zajecia\Mod1Zad2\Mod1Zad1\Mod1Zad1\bin\Debug\Mod1Zad1.pdb
+E:\SemestrIV\Algorytmy\Zajecia\Mod1Zad2\Mod1Zad1\Mod1Zad1\obj\Debug\Mod1Zad1.csprojAssemblyReference.cache
+E:\SemestrIV\Algorytmy\Zajecia\Mod1Zad2\Mod1Zad1\Mod1Zad1\obj\Debug\Mod1Zad1.exe
+E:\SemestrIV\Algorytmy\Zajecia\Mod1Zad2\Mod1Zad1\Mod1Zad1\obj\Debug\Mod1Zad1.pdb

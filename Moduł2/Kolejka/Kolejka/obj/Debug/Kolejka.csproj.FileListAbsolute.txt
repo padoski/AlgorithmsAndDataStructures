@@ -1,0 +1,6 @@
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\Kolejka\Kolejka\bin\Debug\Kolejka.exe.config
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\Kolejka\Kolejka\bin\Debug\Kolejka.exe
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\Kolejka\Kolejka\bin\Debug\Kolejka.pdb
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\Kolejka\Kolejka\obj\Debug\Kolejka.csprojAssemblyReference.cache
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\Kolejka\Kolejka\obj\Debug\Kolejka.exe
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\Kolejka\Kolejka\obj\Debug\Kolejka.pdb

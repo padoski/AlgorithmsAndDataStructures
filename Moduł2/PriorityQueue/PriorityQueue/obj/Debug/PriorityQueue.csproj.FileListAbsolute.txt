@@ -1,0 +1,6 @@
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csprojAssemblyReference.cache
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.exe
+E:\SemestrIV\Algorytmy\Zajecia\Moduł2\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.pdb
